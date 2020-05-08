@@ -1,0 +1,1754 @@
+fileFormatVersion: 2
+guid: 7625884bbfef73e448dc88bba5cd6c6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5219258225058884789
+    second: resident_evil_3_top_down_characters_0
+  - first:
+      213: -467839453133786957
+    second: resident_evil_3_top_down_characters_1
+  - first:
+      213: 2644988359475026140
+    second: resident_evil_3_top_down_characters_2
+  - first:
+      213: -2915920145265554138
+    second: resident_evil_3_top_down_characters_3
+  - first:
+      213: -1832481736522855351
+    second: resident_evil_3_top_down_characters_4
+  - first:
+      213: -6903251052578285613
+    second: resident_evil_3_top_down_characters_5
+  - first:
+      213: -4101405162830196953
+    second: resident_evil_3_top_down_characters_6
+  - first:
+      213: -3120134630059809650
+    second: resident_evil_3_top_down_characters_7
+  - first:
+      213: -2111782807123684640
+    second: resident_evil_3_top_down_characters_8
+  - first:
+      213: -4275533740950819239
+    second: resident_evil_3_top_down_characters_9
+  - first:
+      213: 6530719198267172754
+    second: resident_evil_3_top_down_characters_10
+  - first:
+      213: 8105441997463453014
+    second: resident_evil_3_top_down_characters_11
+  - first:
+      213: 30514152369754018
+    second: resident_evil_3_top_down_characters_12
+  - first:
+      213: 6597186385019971849
+    second: resident_evil_3_top_down_characters_13
+  - first:
+      213: -6631856619695831320
+    second: resident_evil_3_top_down_characters_14
+  - first:
+      213: 5478543348012240827
+    second: resident_evil_3_top_down_characters_15
+  - first:
+      213: 4249282920599037494
+    second: resident_evil_3_top_down_characters_16
+  - first:
+      213: -6184587802160819691
+    second: resident_evil_3_top_down_characters_17
+  - first:
+      213: -7931488624906677804
+    second: resident_evil_3_top_down_characters_18
+  - first:
+      213: 8624599119918875660
+    second: resident_evil_3_top_down_characters_19
+  - first:
+      213: 4614160857350433735
+    second: resident_evil_3_top_down_characters_20
+  - first:
+      213: 1614036033469611541
+    second: resident_evil_3_top_down_characters_21
+  - first:
+      213: -567976458221785847
+    second: resident_evil_3_top_down_characters_22
+  - first:
+      213: -6920336142110538323
+    second: resident_evil_3_top_down_characters_23
+  - first:
+      213: 8405659308840990527
+    second: resident_evil_3_top_down_characters_24
+  - first:
+      213: 8327354943288834368
+    second: resident_evil_3_top_down_characters_25
+  - first:
+      213: -4630011786605789898
+    second: resident_evil_3_top_down_characters_26
+  - first:
+      213: -7359588130535001903
+    second: resident_evil_3_top_down_characters_27
+  - first:
+      213: 1046368119924782705
+    second: resident_evil_3_top_down_characters_28
+  - first:
+      213: 6671490229594610120
+    second: resident_evil_3_top_down_characters_29
+  - first:
+      213: -1589766216048182821
+    second: resident_evil_3_top_down_characters_30
+  - first:
+      213: 4320765227522994681
+    second: resident_evil_3_top_down_characters_31
+  - first:
+      213: -8859739654058817980
+    second: resident_evil_3_top_down_characters_32
+  - first:
+      213: -5552661328492877194
+    second: resident_evil_3_top_down_characters_33
+  - first:
+      213: -4278489322083360409
+    second: resident_evil_3_top_down_characters_34
+  - first:
+      213: -8385747728965207101
+    second: resident_evil_3_top_down_characters_35
+  - first:
+      213: 5003112985792923896
+    second: resident_evil_3_top_down_characters_36
+  - first:
+      213: -615660479070910905
+    second: resident_evil_3_top_down_characters_37
+  - first:
+      213: -3069078579698094313
+    second: resident_evil_3_top_down_characters_38
+  - first:
+      213: 45652952285031478
+    second: resident_evil_3_top_down_characters_39
+  - first:
+      213: 3099459262675811402
+    second: resident_evil_3_top_down_characters_40
+  - first:
+      213: 20362944932963973
+    second: resident_evil_3_top_down_characters_41
+  - first:
+      213: -9193470362696556246
+    second: resident_evil_3_top_down_characters_42
+  - first:
+      213: -3641731947931477648
+    second: resident_evil_3_top_down_characters_43
+  - first:
+      213: -150851474591067310
+    second: resident_evil_3_top_down_characters_44
+  - first:
+      213: -6745349088924380770
+    second: resident_evil_3_top_down_characters_45
+  - first:
+      213: 8696678284318722065
+    second: resident_evil_3_top_down_characters_46
+  - first:
+      213: 4417781330882458390
+    second: resident_evil_3_top_down_characters_47
+  - first:
+      213: -5788835168721739100
+    second: resident_evil_3_top_down_characters_48
+  - first:
+      213: -458914058974108775
+    second: resident_evil_3_top_down_characters_49
+  - first:
+      213: 2609521520444771978
+    second: resident_evil_3_top_down_characters_50
+  - first:
+      213: -3660276375284827790
+    second: resident_evil_3_top_down_characters_51
+  - first:
+      213: -2831230152628529739
+    second: resident_evil_3_top_down_characters_52
+  - first:
+      213: -8877517081921102379
+    second: resident_evil_3_top_down_characters_53
+  - first:
+      213: -6480444359696708849
+    second: resident_evil_3_top_down_characters_54
+  - first:
+      213: 5314882831105860749
+    second: resident_evil_3_top_down_characters_55
+  - first:
+      213: 1881133419781002926
+    second: resident_evil_3_top_down_characters_56
+  - first:
+      213: 6501021178194855946
+    second: resident_evil_3_top_down_characters_57
+  - first:
+      213: -179006121032256320
+    second: resident_evil_3_top_down_characters_58
+  - first:
+      213: -1945562601415741498
+    second: resident_evil_3_top_down_characters_59
+  - first:
+      213: -6938562290212907563
+    second: resident_evil_3_top_down_characters_60
+  - first:
+      213: 5377825873150358466
+    second: resident_evil_3_top_down_characters_61
+  - first:
+      213: -4540383994683245683
+    second: resident_evil_3_top_down_characters_62
+  - first:
+      213: -8794257879740455416
+    second: resident_evil_3_top_down_characters_63
+  - first:
+      213: -2400568553945543000
+    second: resident_evil_3_top_down_characters_64
+  - first:
+      213: 9014940457508800170
+    second: resident_evil_3_top_down_characters_65
+  - first:
+      213: -4792480464276696776
+    second: resident_evil_3_top_down_characters_66
+  - first:
+      213: -1489332152492986337
+    second: resident_evil_3_top_down_characters_67
+  - first:
+      213: -3855732644146985768
+    second: resident_evil_3_top_down_characters_68
+  - first:
+      213: 3404152278437770961
+    second: resident_evil_3_top_down_characters_69
+  - first:
+      213: -5474159648945877371
+    second: resident_evil_3_top_down_characters_70
+  - first:
+      213: 3027743712183985111
+    second: resident_evil_3_top_down_characters_71
+  - first:
+      213: -155719276484623050
+    second: resident_evil_3_top_down_characters_72
+  - first:
+      213: -8272091070109974328
+    second: resident_evil_3_top_down_characters_73
+  - first:
+      213: 1095481144674638165
+    second: resident_evil_3_top_down_characters_74
+  - first:
+      213: -8434985607907097690
+    second: resident_evil_3_top_down_characters_75
+  - first:
+      213: -9200422581364848272
+    second: resident_evil_3_top_down_characters_76
+  - first:
+      213: 8642807735907000833
+    second: resident_evil_3_top_down_characters_77
+  - first:
+      213: -558053243090925587
+    second: resident_evil_3_top_down_characters_78
+  - first:
+      213: 1994224071342477448
+    second: resident_evil_3_top_down_characters_79
+  - first:
+      213: 187018033485490140
+    second: resident_evil_3_top_down_characters_80
+  - first:
+      213: 4064151719765831983
+    second: resident_evil_3_top_down_characters_81
+  - first:
+      213: 8531719490392405156
+    second: resident_evil_3_top_down_characters_82
+  - first:
+      213: -4038604965952557268
+    second: resident_evil_3_top_down_characters_83
+  - first:
+      213: -6784171913153968907
+    second: resident_evil_3_top_down_characters_84
+  - first:
+      213: 931243884824256739
+    second: resident_evil_3_top_down_characters_85
+  - first:
+      213: -7605163030308550796
+    second: resident_evil_3_top_down_characters_86
+  - first:
+      213: 4242090029747525680
+    second: resident_evil_3_top_down_characters_87
+  - first:
+      213: 3623367927829160110
+    second: resident_evil_3_top_down_characters_88
+  - first:
+      213: -6909987920133414982
+    second: resident_evil_3_top_down_characters_89
+  - first:
+      213: -8228160214126869152
+    second: resident_evil_3_top_down_characters_90
+  - first:
+      213: -4470164740018302843
+    second: resident_evil_3_top_down_characters_91
+  - first:
+      213: -5159158548992146300
+    second: resident_evil_3_top_down_characters_92
+  - first:
+      213: 8569898813852798623
+    second: resident_evil_3_top_down_characters_93
+  - first:
+      213: -301730767995826061
+    second: resident_evil_3_top_down_characters_94
+  - first:
+      213: 5416810513565223336
+    second: resident_evil_3_top_down_characters_95
+  - first:
+      213: 86418125573274165
+    second: resident_evil_3_top_down_characters_96
+  - first:
+      213: 6626605890221282663
+    second: resident_evil_3_top_down_characters_96
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 224
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcabafe3b78e6840800000000000000
+      internalID: 5219258225058884789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b03c000f76e189f0800000000000000
+      internalID: -467839453133786957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 224
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd85d8136e2e4b420800000000000000
+      internalID: 2644988359475026140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 224
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d8a0cb3129887d0800000000000000
+      internalID: -2915920145265554138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 128
+        width: 28
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c0a2dc197b196e0800000000000000
+      internalID: -1832481736522855351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 224
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7dabf1eb9b230a0800000000000000
+      internalID: -6903251052578285613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 224
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f8d8d0cb1e417c0800000000000000
+      internalID: -4101405162830196953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 27
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84e3ebc51e03b4d0800000000000000
+      internalID: -3120134630059809650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 224
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e29d92c9b071b2e0800000000000000
+      internalID: -2111782807123684640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 224
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95eed6127b04aa4c0800000000000000
+      internalID: -4275533740950819239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 128
+        width: 27
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297e9847286c1aa50800000000000000
+      internalID: 6530719198267172754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 224
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d775e5d805c7070800000000000000
+      internalID: 8105441997463453014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 192
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af0f9cb5786c6000800000000000000
+      internalID: 30514152369754018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 192
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909a824501aed8b50800000000000000
+      internalID: 6597186385019971849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 192
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e605bd9a89e6f3a0800000000000000
+      internalID: -6631856619695831320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 192
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf49d00622b70c40800000000000000
+      internalID: 5478543348012240827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 192
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636a0787d4c78fa30800000000000000
+      internalID: 4249282920599037494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 192
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5129df9492eeb2aa0800000000000000
+      internalID: -6184587802160819691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 192
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1d2645e11bde190800000000000000
+      internalID: -7931488624906677804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_19
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 192
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0449e8543bb0b770800000000000000
+      internalID: 8624599119918875660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 160
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb62e65adac80040800000000000000
+      internalID: 4614160857350433735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 160
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ef2ad8835366610800000000000000
+      internalID: 1614036033469611541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 160
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90de7e6ab642e18f0800000000000000
+      internalID: -567976458221785847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_23
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 160
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5443bb1f606ff90800000000000000
+      internalID: -6920336142110538323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 160
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f373c663b96e6a470800000000000000
+      internalID: 8405659308840990527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_25
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 160
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049f2516335b09370800000000000000
+      internalID: 8327354943288834368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 160
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d7d799fc4eebfb0800000000000000
+      internalID: -4630011786605789898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_27
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 160
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0b74a869d7dd990800000000000000
+      internalID: -7359588130535001903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 128
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176f86cd242758e00800000000000000
+      internalID: 1046368119924782705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 128
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9d9794405e59c50800000000000000
+      internalID: 6671490229594610120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 128
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9f788ac0400f9e0800000000000000
+      internalID: -1589766216048182821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 128
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f13e50051176fb30800000000000000
+      internalID: 4320765227522994681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_32
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 128
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446c16db9b1eb0580800000000000000
+      internalID: -8859739654058817980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_33
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 128
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a2225e0fbf0f2b0800000000000000
+      internalID: -5552661328492877194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_34
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 128
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7616be541a0cf94c0800000000000000
+      internalID: -4278489322083360409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_35
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 128
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb7dfebed6df9b80800000000000000
+      internalID: -8385747728965207101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 96
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8c451c0c0ae6540800000000000000
+      internalID: 5003112985792923896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_37
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 96
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7464bb26e0cb477f0800000000000000
+      internalID: -615660479070910905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_38
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 96
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fa55dda417865d0800000000000000
+      internalID: -3069078579698094313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_39
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 97
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ca5e34e1132a000800000000000000
+      internalID: 45652952285031478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_40
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 97
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cf59b17cd730b20800000000000000
+      internalID: 3099459262675811402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_41
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 97
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5866f439df7584000800000000000000
+      internalID: 20362944932963973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_42
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 96
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21e36a0a6b3a6080800000000000000
+      internalID: -9193470362696556246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_43
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 96
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0795a5c8618f57dc0800000000000000
+      internalID: -3641731947931477648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 96
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5933b3d2375b8d0800000000000000
+      internalID: -2831230152628529739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_53
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 64
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd51a4cf39bcc480800000000000000
+      internalID: -8877517081921102379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_54
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 64
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b08919036d016a0800000000000000
+      internalID: -6480444359696708849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_55
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 64
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8423e286c142c940800000000000000
+      internalID: 5314882831105860749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_56
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 64
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6992de0e02b1a10800000000000000
+      internalID: 1881133419781002926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_57
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 64
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0888935154483a50800000000000000
+      internalID: 6501021178194855946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d550ffeb5645bf90800000000000000
+      internalID: -6938562290212907563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_61
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 32
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c338018320e1aa40800000000000000
+      internalID: 5377825873150358466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_62
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 32
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b390510d05df0c0800000000000000
+      internalID: -4540383994683245683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_73
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 32
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c00a68cff0a33d80800000000000000
+      internalID: -8272091070109974328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_74
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 32
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55958760c4ee33f00800000000000000
+      internalID: 1095481144674638165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_75
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 32
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a34a23b749e0fa80800000000000000
+      internalID: -8434985607907097690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_79
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880d6ee1a38ecab10800000000000000
+      internalID: 1994224071342477448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_80
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7ae7c19eb689200800000000000000
+      internalID: 187018033485490140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_81
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f217fe1d474c66830800000000000000
+      internalID: 4064151719765831983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_82
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4bd1c6ca1c66670800000000000000
+      internalID: 8531719490392405156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_83
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fe4405e2ef3f7c0800000000000000
+      internalID: -4038604965952557268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_91
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 192
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5809bb75ad8c6f1c0800000000000000
+      internalID: -4470164740018302843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_92
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 160
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484476352acf668b0800000000000000
+      internalID: -5159158548992146300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resident_evil_3_top_down_characters_93
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 128
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9eccb0e0956ee670800000000000000
+      internalID: 8569898813852798623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bb060a334574d4a4ca9f506e8d881412
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
