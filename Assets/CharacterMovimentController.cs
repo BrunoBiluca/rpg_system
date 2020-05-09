@@ -1,16 +1,19 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class CharacterMovimentController : MonoBehaviour {
+
+    private CharacterAnimatorController animatorController;
+
     private Rigidbody2D rigidbody2d;
     private Vector3 moviment;
     private bool dashMoviment;
+    [SerializeField] GameObject dashPrefab;
 
     [SerializeField]
     private LayerMask dashLayerMask;
 
     private void Awake() {
+        animatorController = GetComponent<CharacterAnimatorController>();
         rigidbody2d = GetComponent<Rigidbody2D>();
     }
 
@@ -31,9 +34,9 @@ public class CharacterMovimentController : MonoBehaviour {
             mov.x = 1;
 
         moviment = mov.normalized;
-        // TODO: implementar a animação de movimento do character
+        animatorController.PlayWalkAnimation(moviment);
 
-        if(Input.GetKeyDown(KeyCode.Space))
+        if(Input.GetKeyDown(KeyCode.RightControl))
             dashMoviment = true;
     }
 
@@ -41,15 +44,26 @@ public class CharacterMovimentController : MonoBehaviour {
         rigidbody2d.velocity = moviment;
 
         if(dashMoviment) {
-            var dashAmount = 1.5f;
+            var dashAmount = .3f;
             var dashPosition = transform.position + moviment * dashAmount;
 
             RaycastHit2D raycastHit = Physics2D.Raycast(transform.position, moviment, dashAmount, dashLayerMask);
             if(raycastHit.collider != null)
                 dashPosition = raycastHit.point;
 
+            var dashTransform = Instantiate(dashPrefab, transform.position, Quaternion.identity);
+
+            var targetDir = dashPosition - transform.position;
+            var angle = Vector3.Angle(targetDir, transform.right);
+
+            var direction = targetDir.y < 0 ? -1 : 1;
+
+            dashTransform.transform.localEulerAngles = new Vector3(0, 0, direction * angle);
+            Destroy(dashTransform, .4f);
+
             rigidbody2d.MovePosition(dashPosition);
             dashMoviment = false;
         }
     }
+
 }
