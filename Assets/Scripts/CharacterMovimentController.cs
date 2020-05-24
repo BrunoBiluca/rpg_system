@@ -7,10 +7,10 @@ public class CharacterMovimentController : MonoBehaviour {
     private Rigidbody2D rigidbody2d;
     private Vector3 moviment;
     private bool dashMoviment;
-    [SerializeField] GameObject dashPrefab;
+    [SerializeField] public GameObject dashPrefab;
 
     [SerializeField]
-    private LayerMask dashLayerMask;
+    public LayerMask dashLayerMask;
 
     private void Awake() {
         animatorController = GetComponent<CharacterAnimatorController>();
