@@ -4,7 +4,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using Unity.Collections;
-using System.Collections;
 
 public class PathFinding : MonoBehaviour {
 
@@ -22,12 +21,15 @@ public class PathFinding : MonoBehaviour {
     private void Start() {
         debug = false;
 
-        grid = new int2(3, 3);
+        grid = new int2(4, 4);
 
         startPosition = new int2(1, 0);
-        endPosition = new int2(1, 2);
+        endPosition = new int2(2, 3);
 
-        FindPath();
+        var path = FindPath();
+
+        if(path.Count() == 0)
+            Debug.Log("Nenhum caminho encontrado");
     }
 
     public struct PathNode {
@@ -42,8 +44,8 @@ public class PathFinding : MonoBehaviour {
         public int hCost;
         // Custo total do nó
         private int fCost;
-        public int FCost { 
-            get { return gCost + hCost; } 
+        public int FCost {
+            get { return gCost + hCost; }
         }
 
         public bool isWalkable;
@@ -51,11 +53,11 @@ public class PathFinding : MonoBehaviour {
         public int cameFromNodeIndex;
 
         public override string ToString() {
-            return $"x: {x} - y: {y} - hCost: {hCost}";
+            return $"index: {index}\n - x: {x} - y: {y}\n - gCost: {gCost} - hCost: {hCost}\n - fCost: {FCost}";
         }
     }
-    
-    public void FindPath() {
+
+    public IEnumerable<int> FindPath() {
         var gridNodes = new NativeArray<PathNode>(grid.y * grid.x, Allocator.Temp);
 
         for(int x = 0; x < grid.x; x++) {
@@ -77,30 +79,78 @@ public class PathFinding : MonoBehaviour {
             }
         }
 
+        {
+            var node = gridNodes[1];
+            node.isWalkable = false;
+            gridNodes[1] = node;
+
+            node = gridNodes[5];
+            node.isWalkable = false;
+            gridNodes[5] = node;
+
+            node = gridNodes[6];
+            node.isWalkable = false;
+            gridNodes[6] = node;
+
+            node = gridNodes[9];
+            node.isWalkable = false;
+            gridNodes[9] = node;
+        }
+
         var openNodes = new List<int>();
         var closedNodes = new List<int>();
 
-        var startNode = gridNodes[GridIndex(startPosition.x, startPosition.y)];
+        // TODO: Encapsular o gridNodes em uma estrutura para melhorar a possibilidade de atualizar os valores
+        var startIndex = GridIndex(startPosition.x, startPosition.y);
+        var startNode = gridNodes[startIndex];
         startNode.gCost = 0;
+        gridNodes[startIndex] = startNode;
 
         openNodes.Add(startNode.index);
 
+        var endNodeIndex = GridIndex(endPosition.x, endPosition.y);
         while(openNodes.Count > 0) {
             var currentNode = GetNodeWithLowestCost(gridNodes, openNodes);
 
+            if(currentNode.index == endNodeIndex) 
+                break;
+
             openNodes.Remove(currentNode.index);
+            closedNodes.Add(currentNode.index);
 
-            openNodes.AddRange(OpenNeighbors(currentNode, gridNodes, closedNodes));
+            foreach(var item in OpenNeighbors(currentNode, gridNodes, closedNodes)) {
+                var neighbor = item;
+                
+                if(!openNodes.Contains(neighbor.index)) 
+                    openNodes.Add(neighbor.index);
 
-            // TODO: Atualiza o gcost para os vizinhos
+                var tentativeCost = currentNode.gCost + CalculateDistanceCost(currentNode, neighbor);
+                if(neighbor.gCost > tentativeCost) {
+                    neighbor.gCost = tentativeCost;
+                    neighbor.cameFromNodeIndex = currentNode.index;
+                }
 
-            // TODO: Adicionar o nó pesquisado à closedList
-
-            // TODO: Iterar sobre os vizinhos se eles já não estão na lista closedList
+                gridNodes[neighbor.index] = neighbor;
+            }
         }
+
+        if(gridNodes[endNodeIndex].cameFromNodeIndex == -1) {
+            return new List<int>();
+        }
+
+        var nodeIndex = endNodeIndex;
+        var path = new List<int>();
+        while(nodeIndex != -1) {
+            path.Insert(0, nodeIndex);
+            nodeIndex = gridNodes[nodeIndex].cameFromNodeIndex;
+        }
+
+        Debug.Log(path.Aggregate("", (fullPath, node) => fullPath + " => " + $"({gridNodes[node].x}, {gridNodes[node].y})"));
+
+        return path;
     }
 
-    private IEnumerable<int> OpenNeighbors(PathNode currentNode, NativeArray<PathNode> gridNodes, List<int> closedNodes) {
+    private IEnumerable<PathNode> OpenNeighbors(PathNode currentNode, NativeArray<PathNode> gridNodes, List<int> closedNodes) {
         var neighbors = new List<int2>() {
             new int2(1, 0), // up
             new int2(0, 1), // right
@@ -115,14 +165,11 @@ public class PathFinding : MonoBehaviour {
             var neighborPos = new int2(currentNode.x + neighbor.x, currentNode.y + neighbor.y);
             if(!IsInsideGrid(neighborPos.x, neighborPos.y)) continue;
 
-            var neighborIndex = GridIndex(neighborPos.x, neighborPos.y);
-            if(closedNodes.Contains(neighborIndex)) continue;
+            var neighborNode = gridNodes[GridIndex(neighborPos.x, neighborPos.y)];
+            if(closedNodes.Contains(neighborNode.index)) continue;
+            if(!neighborNode.isWalkable) continue;
 
-            if(!gridNodes[neighborIndex].isWalkable) continue;
-
-            // TODO: atualizar o gcost baseado no valor do currentNode, talvez o melhor será separar os vizinhos entre diagonal e straight
-
-            yield return GridIndex(currentNode.x + neighbor.x, currentNode.y + neighbor.y);
+            yield return neighborNode;
         }
     }
 
@@ -134,8 +181,9 @@ public class PathFinding : MonoBehaviour {
     public PathNode GetNodeWithLowestCost(NativeArray<PathNode> gridNodes, List<int> openNodes) {
         var node = gridNodes[openNodes.First()];
         for(int index = 0; index < openNodes.Count; index++) {
-            if(gridNodes[index].FCost < node.FCost) {
-                node = gridNodes[index];
+            var gridIndex = openNodes[index];
+            if(gridNodes[gridIndex].FCost < node.FCost) {
+                node = gridNodes[gridIndex];
             }
         }
 
@@ -151,6 +199,15 @@ public class PathFinding : MonoBehaviour {
     private int CalculateDistanceCost(int2 startPosition, int2 endPosition) {
         var distanceX = Math.Abs(endPosition.x - startPosition.x);
         var distanceY = Math.Abs(endPosition.y - startPosition.y);
+
+        var distanceStraight = Math.Abs(distanceX - distanceY);
+
+        return MOVE_DIAGONAL_COST * Math.Min(distanceX, distanceY) + MOVE_STRAIGHT_COST * distanceStraight;
+    }
+
+    private int CalculateDistanceCost(PathNode startNode, PathNode endNode) {
+        var distanceX = Math.Abs(endNode.x - startNode.x);
+        var distanceY = Math.Abs(endNode.y - startNode.y);
 
         var distanceStraight = Math.Abs(distanceX - distanceY);
 
