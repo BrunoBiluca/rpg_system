@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Unity.Collections;
 
-public class PathFinding : MonoBehaviour {
+public class PathFinding {
 
     public const int MOVE_DIAGONAL_COST = 14;
     public const int MOVE_STRAIGHT_COST = 10;
@@ -14,22 +14,15 @@ public class PathFinding : MonoBehaviour {
 
     public int2 grid;
 
+    public List<int> blockablePosisitions;
+
     public int2 startPosition;
     public int2 endPosition;
 
-
-    private void Start() {
-        debug = false;
-
-        grid = new int2(4, 4);
-
-        startPosition = new int2(1, 0);
-        endPosition = new int2(2, 3);
-
-        var path = FindPath();
-
-        if(path.Count() == 0)
-            Debug.Log("Nenhum caminho encontrado");
+    public PathFinding(int2 grid, bool debug=false) {
+        this.grid = grid;
+        blockablePosisitions = new List<int>();
+        this.debug = debug;
     }
 
     public struct PathNode {
@@ -57,7 +50,11 @@ public class PathFinding : MonoBehaviour {
         }
     }
 
-    public IEnumerable<int> FindPath() {
+    internal void SetIsWalkable(Vector2 position, bool v) {
+        blockablePosisitions.Add(GridIndex((int)position.x, (int)position.y));
+    }
+
+    public IEnumerable<int2> FindPath(int2 startPosition, int2 endPosition) {
         var gridNodes = new NativeArray<PathNode>(grid.y * grid.x, Allocator.Temp);
 
         for(int x = 0; x < grid.x; x++) {
@@ -69,32 +66,12 @@ public class PathFinding : MonoBehaviour {
                     index = gridIndex,
                     gCost = int.MaxValue,
                     hCost = CalculateDistanceCost(new int2(x, y), endPosition),
-                    isWalkable = true,
+                    isWalkable = !blockablePosisitions.Contains(gridIndex),
                     cameFromNodeIndex = -1
                 };
 
-                if(debug) Debug.Log(pathNode);
-
                 gridNodes[gridIndex] = pathNode;
             }
-        }
-
-        {
-            var node = gridNodes[1];
-            node.isWalkable = false;
-            gridNodes[1] = node;
-
-            node = gridNodes[5];
-            node.isWalkable = false;
-            gridNodes[5] = node;
-
-            node = gridNodes[6];
-            node.isWalkable = false;
-            gridNodes[6] = node;
-
-            node = gridNodes[9];
-            node.isWalkable = false;
-            gridNodes[9] = node;
         }
 
         var openNodes = new List<int>();
@@ -112,7 +89,7 @@ public class PathFinding : MonoBehaviour {
         while(openNodes.Count > 0) {
             var currentNode = GetNodeWithLowestCost(gridNodes, openNodes);
 
-            if(currentNode.index == endNodeIndex) 
+            if(currentNode.index == endNodeIndex)
                 break;
 
             openNodes.Remove(currentNode.index);
@@ -120,8 +97,8 @@ public class PathFinding : MonoBehaviour {
 
             foreach(var item in OpenNeighbors(currentNode, gridNodes, closedNodes)) {
                 var neighbor = item;
-                
-                if(!openNodes.Contains(neighbor.index)) 
+
+                if(!openNodes.Contains(neighbor.index))
                     openNodes.Add(neighbor.index);
 
                 var tentativeCost = currentNode.gCost + CalculateDistanceCost(currentNode, neighbor);
@@ -135,7 +112,8 @@ public class PathFinding : MonoBehaviour {
         }
 
         if(gridNodes[endNodeIndex].cameFromNodeIndex == -1) {
-            return new List<int>();
+            yield return new int2(-1, -1);
+            yield break;
         }
 
         var nodeIndex = endNodeIndex;
@@ -145,9 +123,20 @@ public class PathFinding : MonoBehaviour {
             nodeIndex = gridNodes[nodeIndex].cameFromNodeIndex;
         }
 
-        Debug.Log(path.Aggregate("", (fullPath, node) => fullPath + " => " + $"({gridNodes[node].x}, {gridNodes[node].y})"));
+        if(debug)
+            Debug.Log(path.Aggregate("", (fullPath, node) => fullPath + " => " + $"({gridNodes[node].x}, {gridNodes[node].y})"));
 
-        return path;
+        foreach(var node in path) {
+            yield return GridPosition(node);
+        }
+    }
+
+    public int2 GridPosition(int nodeIndex) {
+        var xPos = nodeIndex / grid.y;
+        return new int2(
+            xPos,
+            nodeIndex - xPos * grid.y
+        );
     }
 
     private IEnumerable<PathNode> OpenNeighbors(PathNode currentNode, NativeArray<PathNode> gridNodes, List<int> closedNodes) {

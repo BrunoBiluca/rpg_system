@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Net;
 using System.Runtime.InteropServices.WindowsRuntime;
+using Unity.Mathematics;
 using UnityEditor.UI;
 using UnityEngine;
 
@@ -33,11 +34,11 @@ public class GridMode {
         Debug.DrawLine(GetWorldPosition(width, 0), GetWorldPosition(width, height), Color.white, 100f);
     }
 
-    private Vector3 GetWorldPosition(int x, int y) {
+    public Vector3 GetWorldPosition(int x, int y) {
         return new Vector3(x, y) * cellSize;
     }
 
-    private Vector2 GetGridPostion(Vector3 position) {
+    public Vector2 GetGridPostion(Vector3 position) {
         var gridPosition = new Vector2(
             (int)Math.Floor(position.x / cellSize),
             (int)Math.Floor(position.y / cellSize)
@@ -46,20 +47,28 @@ public class GridMode {
         return gridPosition;
     }
 
-    private bool IsInsideGrid(int x, int y) {
+    public bool IsInsideGrid(int x, int y) {
         return x >= 0 && x < width
             && y >= 0 && y < height;
     }
 
-    private bool IsInsideGrid(Vector3 pos) {
+    public bool IsInsideGrid(Vector3 pos) {
         return IsInsideGrid((int)pos.x, (int)pos.y);
     }
 
-    private bool IsInsideGrid(params Vector3[] positions) {
+    public bool IsInsideGrid(params Vector3[] positions) {
         foreach(var pos in positions) {
             if(!IsInsideGrid(pos)) {
                 return false;
             }
+        }
+        return true;
+    }
+
+    public bool IsWolrdPositionInsideGrid(params Vector3[] positions) {
+        foreach(var pos in positions) {
+            if(!IsInsideGrid(GetGridPostion(pos)))
+                return false;
         }
         return true;
     }
@@ -99,18 +108,33 @@ public class GridMode {
             gridPositions.Add(GetGridPostion(pos));
         }
 
-        if(!IsInsideGrid(gridPositions.ToArray())){
+        if(!IsInsideGrid(gridPositions.ToArray())) {
             return false;
         }
 
         for(int i = 1; i < gridPositions.Count; i++) {
             Debug.DrawLine(
-                GetWorldPosition((int)gridPositions[i - 1].x, (int)gridPositions[i - 1].y) + new Vector3(cellSize / 2 , cellSize / 2, 0), 
-                GetWorldPosition((int)gridPositions[i].x, (int)gridPositions[i].y) + new Vector3(cellSize / 2 , cellSize / 2, 0),
-                Color.white, 
+                GetWorldPosition((int)gridPositions[i - 1].x, (int)gridPositions[i - 1].y) + new Vector3(cellSize / 2, cellSize / 2, 0),
+                GetWorldPosition((int)gridPositions[i].x, (int)gridPositions[i].y) + new Vector3(cellSize / 2, cellSize / 2, 0),
+                Color.white,
                 100f
             );
         }
         return true;
     }
+
+    public bool DrawLines(params int2[] gridPositions) {
+        for(int i = 1; i < gridPositions.Length; i++) {
+            var centerNodeCorrection = new Vector3(cellSize / 2, cellSize / 2, 0);
+
+            Debug.DrawLine(
+                GetWorldPosition(gridPositions[i - 1].x, gridPositions[i - 1].y) + centerNodeCorrection,
+                GetWorldPosition(gridPositions[i].x, gridPositions[i].y) + centerNodeCorrection,
+                Color.white,
+                100f
+            );
+        }
+        return true;
+    }
+
 }
