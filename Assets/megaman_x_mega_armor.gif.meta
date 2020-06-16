@@ -1,0 +1,2411 @@
+fileFormatVersion: 2
+guid: 6552736fc20c81e4b80d1db9d74a91d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1212367705247704311
+    second: megaman_x_mega_armor_0
+  - first:
+      213: 6352043710733507215
+    second: megaman_x_mega_armor_1
+  - first:
+      213: -4173781649620870353
+    second: megaman_x_mega_armor_2
+  - first:
+      213: -4824276810051355144
+    second: megaman_x_mega_armor_3
+  - first:
+      213: -3196650727716728052
+    second: megaman_x_mega_armor_4
+  - first:
+      213: 5152209606010008293
+    second: megaman_x_mega_armor_5
+  - first:
+      213: -8818085037188065472
+    second: megaman_x_mega_armor_6
+  - first:
+      213: -3342479686158989334
+    second: megaman_x_mega_armor_7
+  - first:
+      213: -7866699061122584229
+    second: megaman_x_mega_armor_8
+  - first:
+      213: -6012419407024002196
+    second: megaman_x_mega_armor_9
+  - first:
+      213: -6510748509258813724
+    second: megaman_x_mega_armor_10
+  - first:
+      213: -6621880116899049606
+    second: megaman_x_mega_armor_11
+  - first:
+      213: 9187807064768531905
+    second: megaman_x_mega_armor_12
+  - first:
+      213: -4534424387166398327
+    second: megaman_x_mega_armor_13
+  - first:
+      213: -7367450207338092760
+    second: megaman_x_mega_armor_14
+  - first:
+      213: -7368074667391634453
+    second: megaman_x_mega_armor_15
+  - first:
+      213: -1827071822174826786
+    second: megaman_x_mega_armor_16
+  - first:
+      213: 9819473250482658
+    second: megaman_x_mega_armor_17
+  - first:
+      213: 7420116625259552019
+    second: megaman_x_mega_armor_18
+  - first:
+      213: 2835632853203358878
+    second: megaman_x_mega_armor_19
+  - first:
+      213: -4817082423117244021
+    second: megaman_x_mega_armor_20
+  - first:
+      213: -4475539231683406531
+    second: megaman_x_mega_armor_21
+  - first:
+      213: 957100113526041791
+    second: megaman_x_mega_armor_22
+  - first:
+      213: 7430190778110103052
+    second: megaman_x_mega_armor_23
+  - first:
+      213: 4357185606902153943
+    second: megaman_x_mega_armor_24
+  - first:
+      213: -6431364752410310982
+    second: megaman_x_mega_armor_25
+  - first:
+      213: 4370943234038694656
+    second: megaman_x_mega_armor_26
+  - first:
+      213: -7058595461091475338
+    second: megaman_x_mega_armor_27
+  - first:
+      213: 8647768280089589736
+    second: megaman_x_mega_armor_28
+  - first:
+      213: -7362246159094016861
+    second: megaman_x_mega_armor_29
+  - first:
+      213: 5413228305954333362
+    second: megaman_x_mega_armor_30
+  - first:
+      213: -6775935391894865351
+    second: megaman_x_mega_armor_31
+  - first:
+      213: -969070182246703213
+    second: megaman_x_mega_armor_32
+  - first:
+      213: 8222666401931349824
+    second: megaman_x_mega_armor_33
+  - first:
+      213: 8964323496686914359
+    second: megaman_x_mega_armor_34
+  - first:
+      213: 338769925322718925
+    second: megaman_x_mega_armor_35
+  - first:
+      213: -7036271948285953044
+    second: megaman_x_mega_armor_36
+  - first:
+      213: 72955560753283460
+    second: megaman_x_mega_armor_37
+  - first:
+      213: 5903273800779678917
+    second: megaman_x_mega_armor_38
+  - first:
+      213: -7169486642583664822
+    second: megaman_x_mega_armor_39
+  - first:
+      213: 3909000809421986677
+    second: megaman_x_mega_armor_40
+  - first:
+      213: 3602562147474799742
+    second: megaman_x_mega_armor_41
+  - first:
+      213: -6018136143517246034
+    second: megaman_x_mega_armor_42
+  - first:
+      213: -6890573213989143935
+    second: megaman_x_mega_armor_43
+  - first:
+      213: 7662660975582014327
+    second: megaman_x_mega_armor_44
+  - first:
+      213: 3609354414482151797
+    second: megaman_x_mega_armor_45
+  - first:
+      213: 6155521984339863851
+    second: megaman_x_mega_armor_46
+  - first:
+      213: 7832607064191928047
+    second: megaman_x_mega_armor_47
+  - first:
+      213: 4285824081059926266
+    second: megaman_x_mega_armor_48
+  - first:
+      213: 7179357003224385972
+    second: megaman_x_mega_armor_49
+  - first:
+      213: 644309062630487630
+    second: megaman_x_mega_armor_50
+  - first:
+      213: -8423822855915472138
+    second: megaman_x_mega_armor_51
+  - first:
+      213: -4099074426903750809
+    second: megaman_x_mega_armor_52
+  - first:
+      213: -2076391822062658506
+    second: megaman_x_mega_armor_53
+  - first:
+      213: 7841447715463800381
+    second: megaman_x_mega_armor_54
+  - first:
+      213: 8623294087012006486
+    second: megaman_x_mega_armor_55
+  - first:
+      213: -3022987466432206315
+    second: megaman_x_mega_armor_56
+  - first:
+      213: -6325341751715810469
+    second: megaman_x_mega_armor_57
+  - first:
+      213: -3459768969095817256
+    second: megaman_x_mega_armor_58
+  - first:
+      213: 6446862354061211874
+    second: megaman_x_mega_armor_59
+  - first:
+      213: -4872378526107147364
+    second: megaman_x_mega_armor_60
+  - first:
+      213: -4154666906816237421
+    second: megaman_x_mega_armor_61
+  - first:
+      213: -2913290830375127475
+    second: megaman_x_mega_armor_62
+  - first:
+      213: 6583670846390726606
+    second: megaman_x_mega_armor_63
+  - first:
+      213: 681628953636929891
+    second: megaman_x_mega_armor_64
+  - first:
+      213: -8516216876574848349
+    second: megaman_x_mega_armor_65
+  - first:
+      213: -8514240786098024254
+    second: megaman_x_mega_armor_66
+  - first:
+      213: -1274663754158496714
+    second: megaman_x_mega_armor_67
+  - first:
+      213: -93946735630659005
+    second: megaman_x_mega_armor_68
+  - first:
+      213: 3823350934732807024
+    second: megaman_x_mega_armor_69
+  - first:
+      213: 3342238929688483033
+    second: megaman_x_mega_armor_70
+  - first:
+      213: 3689118740177393016
+    second: megaman_x_mega_armor_71
+  - first:
+      213: 955819208623810902
+    second: megaman_x_mega_armor_72
+  - first:
+      213: -6724934485773792830
+    second: megaman_x_mega_armor_73
+  - first:
+      213: -1910087490625931665
+    second: megaman_x_mega_armor_74
+  - first:
+      213: 7722625030881810262
+    second: megaman_x_mega_armor_75
+  - first:
+      213: 3980920846813347554
+    second: megaman_x_mega_armor_76
+  - first:
+      213: 6898081778096683286
+    second: megaman_x_mega_armor_77
+  - first:
+      213: 5791437258807556048
+    second: megaman_x_mega_armor_78
+  - first:
+      213: -2221427026402210721
+    second: megaman_x_mega_armor_79
+  - first:
+      213: 2365724739230023086
+    second: megaman_x_mega_armor_80
+  - first:
+      213: -8049218988673548421
+    second: megaman_x_mega_armor_81
+  - first:
+      213: -4838701129035117852
+    second: megaman_x_mega_armor_82
+  - first:
+      213: 1124203557502462406
+    second: megaman_x_mega_armor_83
+  - first:
+      213: -2189759016164075514
+    second: megaman_x_mega_armor_84
+  - first:
+      213: -8447997362712842221
+    second: megaman_x_mega_armor_85
+  - first:
+      213: 749508444702886816
+    second: megaman_x_mega_armor_86
+  - first:
+      213: -2613134141880147132
+    second: megaman_x_mega_armor_87
+  - first:
+      213: -5536116032796027451
+    second: megaman_x_mega_armor_88
+  - first:
+      213: 9054398451241505916
+    second: megaman_x_mega_armor_89
+  - first:
+      213: -1791265028801213211
+    second: megaman_x_mega_armor_90
+  - first:
+      213: 8711114260179673698
+    second: megaman_x_mega_armor_91
+  - first:
+      213: 8387380164942654790
+    second: megaman_x_mega_armor_92
+  - first:
+      213: -3558833496801914827
+    second: megaman_x_mega_armor_93
+  - first:
+      213: -601142760665242310
+    second: megaman_x_mega_armor_94
+  - first:
+      213: 4251848784406862659
+    second: megaman_x_mega_armor_95
+  - first:
+      213: -8003652118348533343
+    second: megaman_x_mega_armor_96
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 431
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4e178210233d010800000000000000
+      internalID: 1212367705247704311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 431
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a5600b91ef62850800000000000000
+      internalID: 6352043710733507215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 431
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bdd4c04bfb316c0800000000000000
+      internalID: -4173781649620870353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 431
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdfbb62dc9bc0db0800000000000000
+      internalID: -4824276810051355144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 431
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c035377891733a3d0800000000000000
+      internalID: -3196650727716728052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 431
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2f49ec653508740800000000000000
+      internalID: 5152209606010008293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 431
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047d73ff06edf9580800000000000000
+      internalID: -8818085037188065472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_7
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 431
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7c8854f602d91d0800000000000000
+      internalID: -3342479686158989334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 431
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51b3ea22eed3d290800000000000000
+      internalID: -7866699061122584229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_9
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 431
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b6bab87689f8ca0800000000000000
+      internalID: -6012419407024002196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 382
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee69bbe9bc25a5a0800000000000000
+      internalID: -6510748509258813724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 382
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f820f2e1b5a14a0800000000000000
+      internalID: -6621880116899049606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 382
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd4a58a8d5a18f70800000000000000
+      internalID: 9187807064768531905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 382
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98814165b0d7211c0800000000000000
+      internalID: -4534424387166398327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 382
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8272c33221f81c990800000000000000
+      internalID: -7367450207338092760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 382
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be33193b0275fb990800000000000000
+      internalID: -7368074667391634453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_16
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 382
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edec424abdfe4a6e0800000000000000
+      internalID: -1827071822174826786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 382
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9f9f642c2e22000800000000000000
+      internalID: 9819473250482658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_18
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 382
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dd098d1cc89f660800000000000000
+      internalID: 7420116625259552019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 343
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e941d906e013a5720800000000000000
+      internalID: 2835632853203358878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 343
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b899154ee09462db0800000000000000
+      internalID: -4817082423117244021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 343
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d359f2df7c0b3e1c0800000000000000
+      internalID: -4475539231683406531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 343
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbca4397b7d484d00800000000000000
+      internalID: 957100113526041791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 343
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ec2a655275d1760800000000000000
+      internalID: 7430190778110103052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_24
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 343
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d209df5935d77c30800000000000000
+      internalID: 4357185606902153943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_25
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 343
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab68d9f15d33fb6a0800000000000000
+      internalID: -6431364752410310982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_26
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 343
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003064e86b5b8ac30800000000000000
+      internalID: 4370943234038694656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_27
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 343
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670457083d4da0e90800000000000000
+      internalID: -7058595461091475338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_28
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 343
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e771a2de6b030870800000000000000
+      internalID: 8647768280089589736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_29
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 343
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4973a002c04d990800000000000000
+      internalID: -7362246159094016861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 295
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b26f78b676af1b40800000000000000
+      internalID: 5413228305954333362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_31
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 295
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93afb1959aa07f1a0800000000000000
+      internalID: -6775935391894865351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 295
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f13c8bdcb2d82f0800000000000000
+      internalID: -969070182246703213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_33
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 295
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f48a9e687cc1270800000000000000
+      internalID: 8222666401931349824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_34
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 295
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b06b7a9bca76c70800000000000000
+      internalID: 8964323496686914359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_35
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 295
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce3273c37d83b400800000000000000
+      internalID: 338769925322718925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_36
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 295
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebbe5b51f32a5e90800000000000000
+      internalID: -7036271948285953044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_37
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 295
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481c61b22b0330100800000000000000
+      internalID: 72955560753283460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_38
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 295
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4c753be34ace150800000000000000
+      internalID: 5903273800779678917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_39
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 295
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4784e652edd08c90800000000000000
+      internalID: -7169486642583664822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_40
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 294
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bdf40868f8f3630800000000000000
+      internalID: 3909000809421986677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_41
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 256
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cf0899f2fdef130800000000000000
+      internalID: 3602562147474799742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_42
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 256
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead17bb10194b7ca0800000000000000
+      internalID: -6018136143517246034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18afa517b24cf50a0800000000000000
+      internalID: -6890573213989143935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_44
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 256
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b60db0f8d375a60800000000000000
+      internalID: 7662660975582014327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_45
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 256
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57952bf77b0071230800000000000000
+      internalID: 3609354414482151797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_46
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 256
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b296fa3a1aecc6550800000000000000
+      internalID: 6155521984339863851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_47
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 256
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6006e30a203bc60800000000000000
+      internalID: 7832607064191928047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af054616b4e4a7b30800000000000000
+      internalID: 4285824081059926266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_49
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 256
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b907e4182332a360800000000000000
+      internalID: 7179357003224385972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_50
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 256
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46b7a3cdab01f800800000000000000
+      internalID: 644309062630487630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_51
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 209
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa775e6eb1981b80800000000000000
+      internalID: -8423822855915472138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_52
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 209
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767938cc6892d17c0800000000000000
+      internalID: -4099074426903750809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_53
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 209
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cdd6793ac2f23e0800000000000000
+      internalID: -2076391822062658506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_54
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 209
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36a405c62b62dc60800000000000000
+      internalID: 7841447715463800381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_55
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 209
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ab312b8481ca770800000000000000
+      internalID: 8623294087012006486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_56
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 209
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aa9de6ae03c06d0800000000000000
+      internalID: -3022987466432206315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_57
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 209
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53380e903fd738a0800000000000000
+      internalID: -6325341751715810469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_58
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 209
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7df18047e6cffc0800000000000000
+      internalID: -3459768969095817256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_59
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 209
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e838a1772bd77950800000000000000
+      internalID: 6446862354061211874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_60
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 209
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c936424ab85d16cb0800000000000000
+      internalID: -4872378526107147364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_61
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 156
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390b52be578a756c0800000000000000
+      internalID: -4154666906816237421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_62
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 156
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d467610dc69e197d0800000000000000
+      internalID: -2913290830375127475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 159
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfe635c0c5ed5b50800000000000000
+      internalID: 6583670846390726606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_64
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 159
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36186220ce1a57900800000000000000
+      internalID: 681628953636929891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_65
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 156
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aac1912fd150d980800000000000000
+      internalID: -8516216876574848349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_66
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 168
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c01c7c8d1757d980800000000000000
+      internalID: -8514240786098024254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_67
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 173
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634215da11c7f4ee0800000000000000
+      internalID: -1274663754158496714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_68
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 157
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3425de211fb32bef0800000000000000
+      internalID: -93946735630659005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_69
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 108
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b186c0b654f0530800000000000000
+      internalID: 3823350934732807024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_70
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 108
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4509e3994026e20800000000000000
+      internalID: 3342238929688483033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_71
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 108
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875928ac2f1623330800000000000000
+      internalID: 3689118740177393016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_72
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 107
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659648f8180c34d00800000000000000
+      internalID: 955819208623810902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_73
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 106
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9cda527bb3ca2a0800000000000000
+      internalID: -6724934485773792830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_74
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 108
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66f25f1c810e75e0800000000000000
+      internalID: -1910087490625931665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_75
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 106
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6571043ac864c2b60800000000000000
+      internalID: 7722625030881810262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_76
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 108
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eeb1491b621f3730800000000000000
+      internalID: 3980920846813347554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_77
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 106
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6193c0f54d8eabf50800000000000000
+      internalID: 6898081778096683286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 108
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7bf26a0815f5050800000000000000
+      internalID: 5791437258807556048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_79
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 108
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c08dc93e7eb21e0800000000000000
+      internalID: -2221427026402210721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_80
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 108
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadb82ebd1eb4d020800000000000000
+      internalID: 2365724739230023086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_81
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 108
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fb8c4f9fd6b4090800000000000000
+      internalID: -8049218988673548421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_82
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 59
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea849da5fa79dcb0800000000000000
+      internalID: -4838701129035117852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_83
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 59
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c92a24ed29f99f00800000000000000
+      internalID: 1124203557502462406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_84
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608d4d1d6c96c91e0800000000000000
+      internalID: -2189759016164075514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_85
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 4
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3107014782fa2ca80800000000000000
+      internalID: -8447997362712842221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_86
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 4
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abcbaa95f9c66a00800000000000000
+      internalID: 749508444702886816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_87
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443e9cac7584cbbd0800000000000000
+      internalID: -2613134141880147132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_88
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 4
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c519ddbcc3cb23b0800000000000000
+      internalID: -5536116032796027451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_89
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74d81d4b6fa7ad70800000000000000
+      internalID: 9054398451241505916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_90
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 4
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec49b362f52427e0800000000000000
+      internalID: -1791265028801213211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_91
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 4
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26269d3244814e870800000000000000
+      internalID: 8711114260179673698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_92
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 4
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d609f52d5f56470800000000000000
+      internalID: 8387380164942654790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_93
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 4
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5305c584acb7c9ec0800000000000000
+      internalID: -3558833496801914827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_94
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 4
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35204b18df48a7f0800000000000000
+      internalID: -601142760665242310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x_mega_armor_95
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 4
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b5f3131f9910b30800000000000000
+      internalID: 4251848784406862659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b2fa999925ef9c54e98cce8024bccbb5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
