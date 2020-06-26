@@ -10,7 +10,6 @@ public class DamagePopup : MonoBehaviour {
         var go = Instantiate(GameAssetsManager.i.damagePopup, new Vector3(position.x, position.y, -1), Quaternion.identity);
         var damagePopup = go.GetComponent<DamagePopup>();
         damagePopup.Setup(text, new Color32(255, 255, 255, 255));
-        Debug.Log("Create");
         return damagePopup;
     }
 
@@ -18,7 +17,6 @@ public class DamagePopup : MonoBehaviour {
         var go = Instantiate(GameAssetsManager.i.damagePopup, new Vector3(position.x, position.y, -1), Quaternion.identity);
         var damagePopup = go.GetComponent<DamagePopup>();
         damagePopup.Setup(text, new Color32(171, 11, 11, 255));
-        Debug.Log("Create Critical");
         return damagePopup;
     }
 
