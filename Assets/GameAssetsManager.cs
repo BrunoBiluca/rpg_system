@@ -13,5 +13,6 @@ public class GameAssetsManager : MonoBehaviour {
     }
 
     [SerializeField] public GameObject damagePopup;
+    [SerializeField] public GameObject healthBar;
 
 }

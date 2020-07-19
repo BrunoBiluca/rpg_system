@@ -5,14 +5,15 @@
 - &#9745; isPlayerTeam or not
 
 
-Criar Battlehandler para gerenciar a lógica do sistema de batalha
+&#9745; Criar Battlehandler para gerenciar a lógica do sistema de batalha
+- Quando o jogador aperta botão o ataque será efetuado
 - Implementar os estados de:
  - WaitingForPlayer
  - Busy
 Dessa forma esperamos o ataque terminar para poder atacar novamente
 
 
-CaracterBattle classe responsável por gerenciar as animações dos bonecos
+&#9745; CaracterBattle classe responsável por gerenciar as animações dos bonecos
 - Criar um método Setup() para ser utilizado como um construtor
 - Método attack para ativar a animação
   - Parametros, quem é o CharacterBattle que ataca e um callback para quando o ataque terminar
@@ -24,3 +25,17 @@ CaracterBattle classe responsável por gerenciar as animações dos bonecos
     - slideTargetPosition é a posição do enemy
 
 Space será o botão para acionar o ataque
+
+Tarefas restantes:
+- &#9745; Definir o personagem ativo no turno
+   - &#9745; Exibir um círculo para mostrar qual está ativo
+- Exibir as barras de vida para cada personagem
+   - O script de HealthSystem será instanciado na CharacterBattleHandler
+- Exibir o damage popup
+- Verificar se a luta foi finalizada
+- Atualizar as animações para cada fase do ataque
+   - Attack
+   - Slide Foward
+   - Slide Back
+
+

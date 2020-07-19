@@ -32,7 +32,7 @@ public class DamagePopup : MonoBehaviour {
         textMesh.text = text;
         textMesh.faceColor = color;
         fadeSpeed = 1f;
-        movimentSpeed = new Vector2(1, .5f);
+        movimentSpeed = new Vector2(.5f, .2f);
     }
 
     void Update() {

@@ -5,15 +5,23 @@ using UnityEngine;
 public class HealthBar : MonoBehaviour {
 
     private Transform bar;
+    private SpriteRenderer barSprite;
 
     private float barSize;
 
-    private Color fullBar = new Color(82, 200, 33);
-    private Color HalfBar = new Color(82, 200, 33);
-    private Color LowBar = new Color(82, 200, 33);
+    private Color fullBarColor = new Color32(82, 200, 33, 255);
+    private Color middleBarColor = new Color32(200, 111, 33, 255);
+    private Color lowBarColor = new Color32(200, 33, 40, 255);
 
     private void Awake() {
         bar = transform.Find("Bar");
+        barSprite = bar.Find("BarSprite").GetComponent<SpriteRenderer>();
+        barSprite.color = fullBarColor;
+        SetFull();
+    }
+
+    public float GetSize() {
+        return barSize;
     }
 
     public void SetFull() {
@@ -39,18 +47,18 @@ public class HealthBar : MonoBehaviour {
         var newBarSize = bar.localScale.x - 0.01f;
         if(newBarSize <= barSize) {
             bar.localScale = new Vector3(barSize, bar.localScale.y);
+
+            if(barSize == 1)
+                barSprite.color = fullBarColor;
+            else if(barSize > .1f && barSize <= .4f)
+                barSprite.color = middleBarColor;
+            else if(barSize <= .1f)
+                barSprite.color = lowBarColor;
+
             CancelInvoke();
             return;
         }
 
         bar.localScale = new Vector3(newBarSize, bar.localScale.y);
-    }
-
-    public void SetColor(Color color) {
-        bar.GetComponent<SpriteRenderer>();
-
-    }
-
-    private void Update() {
     }
 }
